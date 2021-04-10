@@ -1,7 +1,7 @@
 {
-  "filename": "auto-gr.json",
+  "filename": "auto-gr-enIBFD.json",
   "name": "Greece",
-  "version": "2020-10-15 22:01:47 UTC",
+  "version": "2020-10-30 01:03:27 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -116,7 +116,7 @@
       "institution-part": {
         "coa": "Ελεγκτικό Συνέδριο",
         "coc": "Άρειος Πάγος",
-        "cos": "Συμβούλιο της Επικρατείας",
+        "cos": "SE [Supreme Administrative Court]",
         "ssc": "Ανώτατο Ειδικό Δικαστήριο"
       }
     },
@@ -152,13 +152,13 @@
     },
     "gr:athens": {
       "institution-part": {
-        "aca": "ΔΙΟΙΚΗΤΙΚΑ ΕΦΕΤΕΙΑ",
+        "aca": "DE ΑΘΗΝΩΝ [Administrative Court of Appeal]",
         "oca": "ΕΦΕΤΕΙΟ"
       }
     },
     "gr:athens:athens": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ",
+        "atc": "DP Αθηνών [Administrative Court of First Instance]",
         "otc": "ΠΡΩΤΟΔΙΚΕΙΟ"
       }
     },
@@ -174,17 +174,17 @@
     },
     "gr:chania": {
       "institution-part": {
-        "aca": "ΔΙΟΙΚΗΤΙΚΑ ΕΦΕΤΕΙΑ"
+        "aca": "DE ΧΑΝΙΩΝ [Administrative Court of Appeal]"
       }
     },
     "gr:chania:chania": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Χανίων [Administrative Court of First Instance]"
       }
     },
     "gr:chania:heraklion": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Ηρακλείου [Administrative Court of First Instance]"
       }
     },
     "gr:corfu": {
@@ -269,7 +269,7 @@
     },
     "gr:ioannina": {
       "institution-part": {
-        "aca": "ΔΙΟΙΚΗΤΙΚΑ ΕΦΕΤΕΙΑ",
+        "aca": "DE ΙΩΑΝΝΙΝΩΝ [Administrative Court of Appeal]",
         "oca": "ΕΦΕΤΕΙΟ"
       }
     },
@@ -280,12 +280,12 @@
     },
     "gr:ioannina:corfu": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Κερκύρας [Administrative Court of First Instance]"
       }
     },
     "gr:ioannina:ioannina": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ",
+        "atc": "DP Ιωαννίνων [Administrative Court of First Instance]",
         "otc": "ΠΡΩΤΟΔΙΚΕΙΟ"
       }
     },
@@ -321,22 +321,22 @@
     },
     "gr:komotinis": {
       "institution-part": {
-        "aca": "ΔΙΟΙΚΗΤΙΚΑ ΕΦΕΤΕΙΑ"
+        "aca": "DE ΚΟΜΟΤΗΝΗΣ [Administrative Court of Appeal]"
       }
     },
     "gr:komotinis:alex.city": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Αλεξ/πόλεως [Administrative Court of First Instance]"
       }
     },
     "gr:komotinis:kavala": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Καβάλας [Administrative Court of First Instance]"
       }
     },
     "gr:komotinis:komotini": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Κομοτηνής [Administrative Court of First Instance]"
       }
     },
     "gr:lamia": {
@@ -366,17 +366,17 @@
     },
     "gr:larisa": {
       "institution-part": {
-        "aca": "ΔΙΟΙΚΗΤΙΚΑ ΕΦΕΤΕΙΑ"
+        "aca": "DE ΛΑΡΙΣΑΣ [Administrative Court of Appeal]"
       }
     },
     "gr:larisa:larissa": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Λάρισας [Administrative Court of First Instance]"
       }
     },
     "gr:larisa:volos": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Βόλου [Administrative Court of First Instance]"
       }
     },
     "gr:larissa": {
@@ -431,13 +431,13 @@
     },
     "gr:patron": {
       "institution-part": {
-        "aca": "ΔΙΟΙΚΗΤΙΚΑ ΕΦΕΤΕΙΑ",
+        "aca": "DE ΠΑΤΡΩΝ [Administrative Court of Appeal]",
         "oca": "ΕΦΕΤΕΙΟ"
       }
     },
     "gr:patron:agrinion": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ",
+        "atc": "DP Αγρινίου [Administrative Court of First Instance]",
         "otc": "ΠΡΩΤΟΔΙΚΕΙΟ"
       }
     },
@@ -478,18 +478,18 @@
     },
     "gr:patron:messolonghi": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Μεσολογγίου [Administrative Court of First Instance]"
       }
     },
     "gr:patron:patras": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ",
+        "atc": "DP Πατρών [Administrative Court of First Instance]",
         "otc": "ΠΡΩΤΟΔΙΚΕΙΟ"
       }
     },
     "gr:patron:tower": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Πύργου [Administrative Court of First Instance]"
       }
     },
     "gr:patron:zakynthos": {
@@ -499,49 +499,49 @@
     },
     "gr:piraeus": {
       "institution-part": {
-        "aca": "ΔΙΟΙΚΗΤΙΚΑ ΕΦΕΤΕΙΑ",
+        "aca": "DE ΠΕΙΡΑΙΩΣ [Administrative Court of Appeal]",
         "oca": "ΕΦΕΤΕΙΟ"
       }
     },
     "gr:piraeus:chalkis": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Χαλκίδας [Administrative Court of First Instance]"
       }
     },
     "gr:piraeus:lamia": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Λαμίας [Administrative Court of First Instance]"
       }
     },
     "gr:piraeus:livadia": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Λειβαδιάς [Administrative Court of First Instance]"
       }
     },
     "gr:piraeus:mytilene": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Μυτιλήνης [Administrative Court of First Instance]"
       }
     },
     "gr:piraeus:piraeus": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ",
+        "atc": "DP Πειραιώς [Administrative Court of First Instance]",
         "otc": "ΠΡΩΤΟΔΙΚΕΙΟ"
       }
     },
     "gr:piraeus:rhodes": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Ρόδου [Administrative Court of First Instance]"
       }
     },
     "gr:piraeus:syros": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Σύρου [Administrative Court of First Instance]"
       }
     },
     "gr:thessaloniki": {
       "institution-part": {
-        "aca": "ΔΙΟΙΚΗΤΙΚΑ ΕΦΕΤΕΙΑ",
+        "aca": "DE ΘΕΣΣΑΛΟΝΙΚΗΣ [Administrative Court of Appeal]",
         "oca": "ΕΦΕΤΕΙΟ"
       }
     },
@@ -572,24 +572,24 @@
     },
     "gr:thessaloniki:kozani": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Κοζάνης [Administrative Court of First Instance]"
       }
     },
     "gr:thessaloniki:serres": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ",
+        "atc": "DP Σερρών [Administrative Court of First Instance]",
         "otc": "ΠΡΩΤΟΔΙΚΕΙΟ"
       }
     },
     "gr:thessaloniki:thessaloniki": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ",
+        "atc": "DP Θεσσαλονίκης [Administrative Court of First Instance]",
         "otc": "ΠΡΩΤΟΔΙΚΕΙΟ"
       }
     },
     "gr:thessaloniki:veria": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ",
+        "atc": "DP Βέροιας [Administrative Court of First Instance]",
         "otc": "ΠΡΩΤΟΔΙΚΕΙΟ"
       }
     },
@@ -630,27 +630,27 @@
     },
     "gr:tripoleos": {
       "institution-part": {
-        "aca": "ΔΙΟΙΚΗΤΙΚΑ ΕΦΕΤΕΙΑ"
+        "aca": "DE ΤΡΙΠΟΛΕΩΣ [Administrative Court of Appeal]"
       }
     },
     "gr:tripoleos:corinth": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Κορίνθου [Administrative Court of First Instance]"
       }
     },
     "gr:tripoleos:kalamata": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Καλαμάτας [Administrative Court of First Instance]"
       }
     },
     "gr:tripoleos:nafplion": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Ναυπλίου [Administrative Court of First Instance]"
       }
     },
     "gr:tripoleos:tripoli": {
       "institution-part": {
-        "atc": "ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ"
+        "atc": "DP Τριπόλεως [Administrative Court of First Instance]"
       }
     }
   }

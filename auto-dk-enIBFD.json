@@ -1,7 +1,7 @@
 {
-  "filename": "auto-dk.json",
+  "filename": "auto-dk-enIBFD.json",
   "name": "Denmark",
-  "version": "2020-10-15 22:01:46 UTC",
+  "version": "2020-10-30 01:03:27 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -46,86 +46,86 @@
       "institution-part": {
         "lrc": "Tinglysningsretten",
         "mcc": "Sø- og Handelsretten",
-        "sc": "H",
+        "sc": "HR [Supreme Court]",
         "om": "Ombudsmanden",
         "neab": "Natur-og Miljøklagenævnet",
-        "tc": "Landsskatteretten"
+        "tc": "LSR [National Tax Tribunal]"
       }
     },
     "dk:copenhagen": {
       "institution-part": {
-        "ehc": "Østre Landsret",
+        "ehc": "ØLR [High Court of Eastern Denmark]",
         "mcc": "Sø- og Handelsretten"
       }
     },
     "dk:copenhagen:bornholm": {
       "institution-part": {
-        "dc": "Byret Bornholm"
+        "dc": "BR Bornholm [District Court]"
       }
     },
     "dk:copenhagen:copenhagen": {
       "institution-part": {
-        "dc": "Byret Copenhagen"
+        "dc": "BR Copenhagen [District Court]"
       }
     },
     "dk:copenhagen:elsinore": {
       "institution-part": {
-        "dc": "Byret Elsinore"
+        "dc": "BR Elsinore [District Court]"
       }
     },
     "dk:copenhagen:frederiksberg": {
       "institution-part": {
-        "dc": "Byret Frederiksberg"
+        "dc": "BR Frederiksberg [District Court]"
       }
     },
     "dk:copenhagen:glostrup": {
       "institution-part": {
-        "dc": "Byret Glostrup"
+        "dc": "BR Glostrup [District Court]"
       }
     },
     "dk:copenhagen:hillerod": {
       "institution-part": {
-        "dc": "Byret Hillerød"
+        "dc": "BR Hillerød [District Court]"
       }
     },
     "dk:copenhagen:holbaek": {
       "institution-part": {
-        "dc": "Byret Holbæk"
+        "dc": "BR Holbæk [District Court]"
       }
     },
     "dk:copenhagen:lyngby": {
       "institution-part": {
-        "dc": "Byret Lyngby"
+        "dc": "BR Lyngby [District Court]"
       }
     },
     "dk:copenhagen:nykobing.falster": {
       "institution-part": {
-        "dc": "Byret Nykøbing Falster"
+        "dc": "BR Nykøbing Falster [District Court]"
       }
     },
     "dk:copenhagen:odense": {
       "institution-part": {
-        "dc": "Byret Odense"
+        "dc": "BR Odense [District Court]"
       }
     },
     "dk:copenhagen:roskilde": {
       "institution-part": {
-        "dc": "Byret Roskilde"
+        "dc": "BR Roskilde [District Court]"
       }
     },
     "dk:copenhagen:svendborg": {
       "institution-part": {
-        "dc": "Byret Svendborg"
+        "dc": "BR Svendborg [District Court]"
       }
     },
     "dk:copenhagen:torshaven": {
       "institution-part": {
-        "dc": "Byret Tórshaven"
+        "dc": "BR Tórshaven [District Court]"
       }
     },
     "dk:nuuk": {
       "institution-part": {
-        "dc": "Byret Nuuk",
+        "dc": "BR Nuuk [District Court]",
         "ghc": "Grønlands Landsret"
       }
     },
@@ -151,37 +151,37 @@
     },
     "dk:viborg": {
       "institution-part": {
-        "whc": "Vestre Landsret"
+        "whc": "VLR [High Court of Western Denmark]"
       }
     },
     "dk:viborg:aalborg": {
       "institution-part": {
-        "dc": "Byret Aalborg"
+        "dc": "BR Aalborg [District Court]"
       }
     },
     "dk:viborg:aarhus": {
       "institution-part": {
-        "dc": "Byret Aarhus"
+        "dc": "BR Aarhus [District Court]"
       }
     },
     "dk:viborg:grenaa": {
       "institution-part": {
-        "dc": "Byret Grenaa"
+        "dc": "BR Grenaa [District Court]"
       }
     },
     "dk:viborg:haderslev": {
       "institution-part": {
-        "dc": "Byret Haderslev"
+        "dc": "BR Haderslev [District Court]"
       }
     },
     "dk:viborg:herning": {
       "institution-part": {
-        "dc": "Byret Herning"
+        "dc": "BR Herning [District Court]"
       }
     },
     "dk:viborg:hjorring": {
       "institution-part": {
-        "dc": "Byret Hjørring"
+        "dc": "BR Hjørring [District Court]"
       }
     },
     "dk:viborg:hobro": {
@@ -191,37 +191,37 @@
     },
     "dk:viborg:holstebro": {
       "institution-part": {
-        "dc": "Byret Holstebro"
+        "dc": "BR Holstebro [District Court]"
       }
     },
     "dk:viborg:horsens": {
       "institution-part": {
-        "dc": "Byret Horsens"
+        "dc": "BR Horsens [District Court]"
       }
     },
     "dk:viborg:randers": {
       "institution-part": {
-        "dc": "Byret Randers"
+        "dc": "BR Randers [District Court]"
       }
     },
     "dk:viborg:sonderborg": {
       "institution-part": {
-        "dc": "Byret Sønderborg"
+        "dc": "BR Sønderborg [District Court]"
       }
     },
     "dk:viborg:thisted": {
       "institution-part": {
-        "dc": "Byret Thisted"
+        "dc": "BR Thisted [District Court]"
       }
     },
     "dk:viborg:tonder": {
       "institution-part": {
-        "dc": "Byret Tønder"
+        "dc": "BR Tønder [District Court]"
       }
     },
     "dk:viborg:viborg": {
       "institution-part": {
-        "dc": "Byret Viborg"
+        "dc": "BR Viborg [District Court]"
       }
     }
   }

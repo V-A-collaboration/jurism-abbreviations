@@ -1,5 +1,5 @@
 {
-  "filename": "auto-de.json",
+  "filename": "auto-de-enIBFD.json",
   "name": "Germany",
   "version": "2021-01-27 04:48:22 UTC",
   "xdata": {
@@ -882,8 +882,8 @@
       "institution-part": {
         "bag": "BAGE",
         "bdig": "Bundesdisziplinargericht",
-        "bfh": "BFHE",
-        "bgh": "Bundesgerichtshof",
+        "bfh": "BFH [Federal Tax Court]",
+        "bgh": "BGH [Federal Court of Justice]",
         "bgh~zs1": "Bundesgerichtshof|Zivilsenate I",
         "bgh~zs2": "Bundesgerichtshof|Zivilsenate II",
         "bgh~zs3": "Bundesgerichtshof|Zivilsenate III",
@@ -901,7 +901,7 @@
         "bgh~ss3": "Bundesgerichtshof|Strafsenate 3",
         "bpatg": "BPatGE",
         "bsg": "BSGE",
-        "bverfg": "BVerfGE",
+        "bverfg": "BVerfG [Federal Constitutional Court]",
         "bverfg~1": "Bundesverfassungsgericht|Erster Senat",
         "bverfg~2": "Bundesverfassungsgericht|Zweiter Senat",
         "bverwg": "BVerwGE",
@@ -975,7 +975,7 @@
     },
     "de:baden.wurttemberg": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Baden-Württemberg [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lsg": "Landessozialgericht",
         "stgh": "Staatsgerichtshof",
@@ -2363,7 +2363,7 @@
     },
     "de:bayern:munchen": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG München [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "olg": "Oberlandesgericht",
         "sg": "Sozialgericht",
@@ -2793,7 +2793,7 @@
     },
     "de:bayern:nurnberg": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Nürnberg [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "olg": "Oberlandesgericht",
         "sg": "Sozialgericht"
@@ -3031,7 +3031,7 @@
     },
     "de:berlin": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Berlin [Tax Court]",
         "kg": "Kammergericht",
         "lag": "Landesarbeitsgericht",
         "lg": "Landgericht",
@@ -3051,7 +3051,7 @@
     },
     "de:berlin.brandenburg": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Berlin-Brandenburg [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lsg": "Landessozialgericht",
         "ovg": "Oberverwaltungsgericht"
@@ -3227,7 +3227,7 @@
     },
     "de:brandenburg": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Brandenburg [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lsg": "Landessozialgericht",
         "olg": "Oberlandesgericht",
@@ -3470,7 +3470,7 @@
     "de:bremen": {
       "institution-part": {
         "arbg": "Arbeitsgericht",
-        "fg": "Finanzgericht",
+        "fg": "FG Bremen [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lg": "Landgericht",
         "lsg": "Landessozialgericht",
@@ -3518,7 +3518,7 @@
     "de:hamburg": {
       "institution-part": {
         "arbg": "Arbeitsgericht",
-        "fg": "Finanzgericht",
+        "fg": "FG Hamburg [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lg": "Landgericht",
         "lsg": "Landessozialgericht",
@@ -3607,7 +3607,7 @@
     },
     "de:hessen": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Hessen [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lsg": "Landessozialgericht",
         "olg": "Oberlandesgericht",
@@ -4069,7 +4069,7 @@
     },
     "de:mecklenburg.vorpommern": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Mecklenburg-Vorpommern [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lsg": "Landessozialgericht",
         "lverfg": "Landesverfassungsgericht",
@@ -4223,7 +4223,7 @@
     },
     "de:niedersachsen": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Niedersachsen [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lsg": "Landessozialgericht",
         "ovg": "Oberverwaltungsgericht",
@@ -5241,7 +5241,7 @@
     },
     "de:nordrhein.westfalen:dusseldorf": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Düsseldorf [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "olg": "Oberlandesgericht",
         "sg": "Sozialgericht",
@@ -6377,7 +6377,7 @@
     },
     "de:nordrhein.westfalen:koln": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Köln [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "olg": "Oberlandesgericht",
         "sg": "Sozialgericht",
@@ -6623,7 +6623,7 @@
     },
     "de:nordrhein.westfalen:munster": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Münster [Tax Court]",
         "sg": "Sozialgericht",
         "vg": "Verwaltungsgericht"
       },
@@ -6635,7 +6635,7 @@
     },
     "de:rheinland.pfalz": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Rheinland-Pfalz [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lsg": "Landessozialgericht",
         "ovg": "Oberverwaltungsgericht",
@@ -7161,7 +7161,7 @@
     },
     "de:saarland": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Saarland [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lsg": "Landessozialgericht",
         "olg": "Oberlandesgericht",
@@ -7273,7 +7273,7 @@
     },
     "de:sachsen": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Sachsen [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lsg": "Landessozialgericht",
         "olg": "Oberlandesgericht",
@@ -7291,7 +7291,7 @@
     },
     "de:sachsen.anhalt": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Sachsen-Anhalt [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lsg": "Landessozialgericht",
         "lverfg": "Landesverfassungsgericht",
@@ -7827,7 +7827,7 @@
     },
     "de:schleswig.holstein": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Schleswig-Holstein [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lsg": "Landessozialgericht",
         "lverfg": "Landesverfassungsgericht",
@@ -8091,7 +8091,7 @@
     },
     "de:thuringen": {
       "institution-part": {
-        "fg": "Finanzgericht",
+        "fg": "FG Thüringen [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lsg": "Landessozialgericht",
         "olg": "Oberlandesgericht",

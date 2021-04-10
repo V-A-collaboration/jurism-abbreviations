@@ -1,5 +1,5 @@
 {
-  "filename": "auto-arb.cls.json",
+  "filename": "auto-arb.cls-enIBFD.json",
   "name": "Arbitrations",
   "version": "2020-10-15 22:01:45 UTC",
   "xdata": {
@@ -12,7 +12,7 @@
       "institution-part": {
         "cietac": "China International Economic and Trade Arbitration Commission",
         "crcica": "Cairo Regional Centre for International Commercial Arbitration",
-        "icc": "International Chamber of Commerce",
+        "icc": "ICC",
         "lcia": "London Court of International Arbitration",
         "scc": "Stockholm Chamber of Commerce"
       }

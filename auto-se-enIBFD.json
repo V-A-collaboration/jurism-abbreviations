@@ -1,5 +1,5 @@
 {
-  "filename": "auto-se.json",
+  "filename": "auto-se-enIBFD.json",
   "name": "Sweden",
   "version": "2021-03-20 08:35:08 UTC",
   "xdata": {
@@ -72,8 +72,8 @@
     "se": {
       "institution-part": {
         "hogsta": "Högsta domstolen",
-        "regeringsratten": "Regeringsrätten",
-        "hogsta.forvaltningsdomstolen": "Högsta förvaltningsdomstolen",
+        "regeringsratten": "RÅ (Supreme Administrative Court)",
+        "hogsta.forvaltningsdomstolen": "HFD (Supreme Administrative Court)",
         "arbetsdomstolen": "Arbetsdomstolen",
         "patent.marknadsdomstolen": "Patent och marknadsdomstolen",
         "patent": "Patentbesvärsrätten",
@@ -151,7 +151,7 @@
       "institution-part": {
         "tingsratt": "Tingsrätt i Malmö",
         "tryckfrihetsdomstol": "Tryckfrihetsdomstol i Malmö",
-        "forvaltningsraetten": "Förvaltningsrätten i Malmö",
+        "forvaltningsraetten": "FR Malmö (Administrative Court)",
         "migrationsdomstol": "Migrationsdomstolen i Malmö",
         "hyresnamnd": "Hyresnämnd i Malmö",
         "arrendenamnd": "Arrendenämnd i Malmö"
@@ -207,8 +207,8 @@
       "institution-part": {
         "tingsratt": "Tingsrätt i Göteborgs",
         "tryckfrihetsdomstol": "Tryckfrihetsdomstol i Göteborgs",
-        "kammarratten": "Kammarrätten i Göteborgs",
-        "forvaltningsraetten": "Förvaltningsrätten i Göteborgs",
+        "kammarratten": "KR Göteborgs (Administrative Court of Appeal)",
+        "forvaltningsraetten": "FR Göteborgs (Administrative Court)",
         "migrationsdomstol": "Migrationsdomstolen i Göteborgs",
         "hyresnamnd": "Hyresnämnd i Göteborgs",
         "arrendenamnd": "Arrendenämnd i Göteborgs"
@@ -225,7 +225,7 @@
     },
     "se:vastra.sverige:karlstad": {
       "institution-part": {
-        "forvaltningsraetten": "Förvaltningsrätten i Karlstad"
+        "forvaltningsraetten": "FR Karlstad (Administrative Court)"
       },
       "institution-entire": {
         "forvaltningsraetten": "FR (Administrative Court)"
@@ -305,8 +305,8 @@
       "institution-part": {
         "tingsratt": "Tingsrätt i Jönköpings",
         "tryckfrihetsdomstol": "Tryckfrihetsdomstol i Jönköpings",
-        "kammarratten": "Kammarrätten i Jönköpings",
-        "forvaltningsraetten": "Förvaltningsrätten i Jönköpings",
+        "kammarratten": "KR Jönköpings (Administrative Court of Appeal)",
+        "forvaltningsraetten": "FR Jönköpings (Administrative Court)",
         "hyresnamnd": "Hyresnämnd i Jönköpings",
         "arrendenamnd": "Arrendenämnd i Jönköpings"
       },
@@ -323,7 +323,7 @@
       "institution-part": {
         "tingsratt": "Tingsrätt i Linköpings",
         "tryckfrihetsdomstol": "Tryckfrihetsdomstol i Linköpings",
-        "forvaltningsraetten": "Förvaltningsrätten i Linköpings",
+        "forvaltningsraetten": "FR Linköpings (Administrative Court)",
         "hyresnamnd": "Hyresnämnd i Linköpings",
         "arrendenamnd": "Arrendenämnd i Linköpings"
       },
@@ -339,7 +339,7 @@
       "institution-part": {
         "tingsratt": "Tingsrätt i Växjö",
         "tryckfrihetsdomstol": "Tryckfrihetsdomstol i Växjö",
-        "forvaltningsraetten": "Förvaltningsrätten i Växjö",
+        "forvaltningsraetten": "FR Växjö (Administrative Court)",
         "mark.miljodomstol": "Mark och miljödomstolen i Växjö"
       },
       "institution-entire": {
@@ -419,7 +419,7 @@
     },
     "se:svea:falun": {
       "institution-part": {
-        "forvaltningsraetten": "Förvaltningsrätten i Falun"
+        "forvaltningsraetten": "FR Falun (Administrative Court)"
       },
       "institution-entire": {
         "forvaltningsraetten": "FR (Administrative Court)"
@@ -490,8 +490,8 @@
     "se:svea:stockholm": {
       "institution-part": {
         "tingsratt": "Tingsrätt i Stockholm",
-        "kammarratten": "Kammarrätten i Stockholm",
-        "forvaltningsraetten": "Förvaltningsrätten i Stockholm",
+        "kammarratten": "KR Stockholm (Administrative Court of Appeal)",
+        "forvaltningsraetten": "FR Stockholm (Administrative Court)",
         "migrationsdomstol": "Migrationsdomstolen i Stockholm",
         "migrationsoverdomstol": "Migrationsöverdomstolen i Stockholm",
         "hyresnamnd": "Hyresnämnd i Stockholm",
@@ -511,7 +511,7 @@
       "institution-part": {
         "tingsratt": "Tingsrätt i Uppsala",
         "tryckfrihetsdomstol": "Tryckfrihetsdomstol i Uppsala",
-        "forvaltningsraetten": "Förvaltningsrätten i Uppsala"
+        "forvaltningsraetten": "FR Uppsala (Administrative Court)"
       },
       "institution-entire": {
         "tingsratt": "TR (District Court)",
@@ -543,7 +543,7 @@
       "institution-part": {
         "tingsratt": "Tingsrätt i Uppsala",
         "tryckfrihetsdomstol": "Tryckfrihetsdomstol i Uppsala",
-        "forvaltningsraetten": "Förvaltningsrätten i Uppsala"
+        "forvaltningsraetten": "FR Uppsala (Administrative Court)"
       },
       "institution-entire": {
         "tingsratt": "TR (District Court)",
@@ -603,7 +603,7 @@
       "institution-part": {
         "tingsratt": "Tingsrätt i Sundsvalls",
         "tryckfrihetsdomstol": "Tryckfrihetsdomstol i Sundsvalls",
-        "kammarratten": "Kammarrätten i Sundsvalls",
+        "kammarratten": "KR Sundsvalls (Administrative Court of Appeal)",
         "hyresnamnd": "Hyresnämnd i Sundsvalls",
         "arrendenamnd": "Arrendenämnd i Sundsvalls"
       },
@@ -617,7 +617,7 @@
     },
     "se:nedre.norrland:sundsvalls:fallun": {
       "institution-part": {
-        "forvaltningsraetten": "Förvaltningsrätten i Fallun"
+        "forvaltningsraetten": "FR Fallun (Administrative Court)"
       },
       "institution-entire": {
         "forvaltningsraetten": "FR (Administrative Court)"
@@ -625,7 +625,7 @@
     },
     "se:nedre.norrland:sundsvalls:umea": {
       "institution-part": {
-        "forvaltningsraetten": "Förvaltningsrätten i Umeå"
+        "forvaltningsraetten": "FR Umeå (Administrative Court)"
       },
       "institution-entire": {
         "forvaltningsraetten": "FR (Administrative Court)"
@@ -633,7 +633,7 @@
     },
     "se:nedre.norrland:sundsvalls:lulea": {
       "institution-part": {
-        "forvaltningsraetten": "Förvaltningsrätten i Luleå"
+        "forvaltningsraetten": "FR Luleå (Administrative Court)"
       },
       "institution-entire": {
         "forvaltningsraetten": "FR (Administrative Court)"
@@ -641,7 +641,7 @@
     },
     "se:nedre.norrland:sundsvalls:harnosand": {
       "institution-part": {
-        "forvaltningsraetten": "Förvaltningsrätten i Härnösand"
+        "forvaltningsraetten": "FR Härnösand (Administrative Court)"
       },
       "institution-entire": {
         "forvaltningsraetten": "FR (Administrative Court)"
@@ -701,7 +701,7 @@
       "institution-part": {
         "tingsratt": "Tingsrätt i Luleå",
         "tryckfrihetsdomstol": "Tryckfrihetsdomstol i Luleå",
-        "forvaltningsraetten": "Förvaltningsrätten i Luleå"
+        "forvaltningsraetten": "FR Luleå (Administrative Court)"
       },
       "institution-entire": {
         "tingsratt": "TR (District Court)",

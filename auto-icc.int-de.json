@@ -1,11 +1,11 @@
 {
-  "filename": "auto-icc.int.json",
+  "filename": "auto-icc.int-de.json",
   "name": "International Criminal Court",
   "version": "2020-10-15 22:01:47 UTC",
   "xdata": {
     "default": {
       "place": {
-        "ICC.INT": "International Criminal Court"
+        "ICC.INT": "ICC, %s"
       }
     },
     "icc.int": {

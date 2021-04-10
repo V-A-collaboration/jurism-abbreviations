@@ -1,5 +1,5 @@
 {
-  "filename": "auto-un.int.json",
+  "filename": "auto-un.int-de.json",
   "name": "United Nations",
   "version": "2021-01-28 09:55:01 UTC",
   "xdata": {
@@ -11,11 +11,11 @@
     },
     "un.int": {
       "institution-part": {
-        "icj": "International Court of Justice",
+        "icj": "IGH",
         "ictr": "International Criminal Tribunal for Rwanda",
         "icty": "International Criminal Tribunal for the Former Yugoslavia",
-        "itlos": "International Tribunal for the Law of the Sea",
-        "pca": "Permanent Court of Arbitration"
+        "itlos": "ISGH",
+        "pca": "PCA"
       }
     },
     "un.int:unhrc": {

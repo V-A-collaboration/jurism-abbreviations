@@ -1,5 +1,5 @@
 {
-  "filename": "auto-at.json",
+  "filename": "auto-at-enIBFD.json",
   "name": "Austria",
   "version": "2021-01-27 04:48:22 UTC",
   "xdata": {
@@ -152,14 +152,14 @@
     },
     "at": {
       "institution-part": {
-        "bfg": "Bundesfinanzgericht",
-        "bvwg": "Bundesverwaltungsgericht",
-        "ogh": "Oberster Gerichtshof",
-        "vfgh": "VfSlg",
-        "vwgh": "VwSlg",
+        "bfg": "BFG [Federal Tax Court]",
+        "bvwg": "BVwG [Federal Administrative Court]",
+        "ogh": "OGH [Supreme Court]",
+        "vfgh": "VfGH [Constitutional Court]",
+        "vwgh": "VwGH [Supreme Administrative Court]",
         "asylgh": "Asylgerichtshof",
         "ubas": "Unabhängiger Bundesasylsenat",
-        "ufs": "Unabhängiger Finanzsenat",
+        "ufs": "UFS [Independent Finance Senate]",
         "dsk": "Datenschutzkommission",
         "dsb": "Datenschutzbehörde",
         "bvga": "Bundesvergabeamt",
@@ -184,8 +184,8 @@
     },
     "at:burgenland": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht",
-        "uvs": "Unabhängiger Verwaltungssenat"
+        "lvwg": "LVwG Burgenland [Regional Administrative Court]",
+        "uvs": "UVS Burgenland [Independent Administrative Senate]"
       },
       "institution-entire": {
         "lvwg": "LVwG Burgenland",
@@ -194,7 +194,7 @@
     },
     "at:graz": {
       "institution-part": {
-        "olg": "Oberlandesgericht"
+        "olg": "OLG Graz [Higher Regional Court]"
       },
       "institution-entire": {
         "olg": "OLG Graz"
@@ -202,8 +202,8 @@
     },
     "at:graz:graz": {
       "institution-part": {
-        "lgs": "Landesgericht für Strafsachen",
-        "lgzrs": "Landesgericht für Zivilrechtssachen"
+        "lgs": "LGS Graz [Regional Criminal Court]",
+        "lgzrs": "LGZ Graz [Regional Civil Court]"
       },
       "institution-entire": {
         "lgs": "LGS Graz",
@@ -212,7 +212,7 @@
     },
     "at:graz:graz:deutschlandsberg": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Deutschlandsberg [District Court]"
       },
       "institution-entire": {
         "bg": "BG Deutschlandsberg"
@@ -220,7 +220,7 @@
     },
     "at:graz:graz:feldbach": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Feldbach [District Court]"
       },
       "institution-entire": {
         "bg": "BG Feldbach"
@@ -228,7 +228,7 @@
     },
     "at:graz:graz:furstenfeld": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Fürstenfeld [District Court]"
       },
       "institution-entire": {
         "bg": "BG Fürstenfeld"
@@ -236,7 +236,7 @@
     },
     "at:graz:graz:graz-ost": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Graz-Ost [District Court]"
       },
       "institution-entire": {
         "bg": "BG Graz-Ost"
@@ -244,7 +244,7 @@
     },
     "at:graz:graz:graz-west": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Graz-West [District Court]"
       },
       "institution-entire": {
         "bg": "BG Graz-West"
@@ -252,7 +252,7 @@
     },
     "at:graz:graz:leibnitz": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Leibnitz [District Court]"
       },
       "institution-entire": {
         "bg": "BG Leibnitz"
@@ -260,7 +260,7 @@
     },
     "at:graz:graz:voitsberg": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Voitsberg [District Court]"
       },
       "institution-entire": {
         "bg": "BG Voitsberg"
@@ -268,7 +268,7 @@
     },
     "at:graz:graz:weiz": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Weiz [District Court]"
       },
       "institution-entire": {
         "bg": "BG Weiz"
@@ -276,7 +276,7 @@
     },
     "at:graz:klagenfurt": {
       "institution-part": {
-        "lg": "Landesgericht"
+        "lg": "LG Klagenfurt [Regional Court]"
       },
       "institution-entire": {
         "lg": "LG Klagenfurt"
@@ -284,7 +284,7 @@
     },
     "at:graz:klagenfurt:bleiburg": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Bleiburg [District Court]"
       },
       "institution-entire": {
         "bg": "BG Bleiburg"
@@ -292,7 +292,7 @@
     },
     "at:graz:klagenfurt:eisenkappel": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Eisenkappel [District Court]"
       },
       "institution-entire": {
         "bg": "BG Eisenkappel"
@@ -300,7 +300,7 @@
     },
     "at:graz:klagenfurt:feldkirchen": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Feldkirchen [District Court]"
       },
       "institution-entire": {
         "bg": "BG Feldkirchen"
@@ -308,7 +308,7 @@
     },
     "at:graz:klagenfurt:ferlach": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Ferlach [District Court]"
       },
       "institution-entire": {
         "bg": "BG Ferlach"
@@ -316,7 +316,7 @@
     },
     "at:graz:klagenfurt:hermagor": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Hermagor [District Court]"
       },
       "institution-entire": {
         "bg": "BG Hermagor"
@@ -324,7 +324,7 @@
     },
     "at:graz:klagenfurt:klagenfurt": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Klagenfurt [District Court]"
       },
       "institution-entire": {
         "bg": "BG Klagenfurt"
@@ -332,7 +332,7 @@
     },
     "at:graz:klagenfurt:sankt.veit.an.der.glan": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Sankt Veit an der Glan [District Court]"
       },
       "institution-entire": {
         "bg": "BG Sankt Veit an der Glan"
@@ -340,7 +340,7 @@
     },
     "at:graz:klagenfurt:spittal.an.der.drau": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Spittal an der Drau [District Court]"
       },
       "institution-entire": {
         "bg": "BG Spittal an der Drau"
@@ -348,7 +348,7 @@
     },
     "at:graz:klagenfurt:villach": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Villach [District Court]"
       },
       "institution-entire": {
         "bg": "BG Villach"
@@ -356,7 +356,7 @@
     },
     "at:graz:klagenfurt:volkermarkt": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Völkermarkt [District Court]"
       },
       "institution-entire": {
         "bg": "BG Völkermarkt"
@@ -364,7 +364,7 @@
     },
     "at:graz:klagenfurt:wolfsberg": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Wolfsberg [District Court]"
       },
       "institution-entire": {
         "bg": "BG Wolfsberg"
@@ -372,7 +372,7 @@
     },
     "at:graz:leoben": {
       "institution-part": {
-        "lg": "Landesgericht"
+        "lg": "LG Leoben [Regional Court]"
       },
       "institution-entire": {
         "lg": "LG Leoben"
@@ -380,7 +380,7 @@
     },
     "at:graz:leoben:bruck.an.der.mur": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Bruck an der Mur [District Court]"
       },
       "institution-entire": {
         "bg": "BG Bruck an der Mur"
@@ -388,7 +388,7 @@
     },
     "at:graz:leoben:judenburg": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Judenburg [District Court]"
       },
       "institution-entire": {
         "bg": "BG Judenburg"
@@ -396,7 +396,7 @@
     },
     "at:graz:leoben:leoben": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Leoben [District Court]"
       },
       "institution-entire": {
         "bg": "BG Leoben"
@@ -404,7 +404,7 @@
     },
     "at:graz:leoben:liezen": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Liezen [District Court]"
       },
       "institution-entire": {
         "bg": "BG Liezen"
@@ -412,7 +412,7 @@
     },
     "at:graz:leoben:murau": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Murau [District Court]"
       },
       "institution-entire": {
         "bg": "BG Murau"
@@ -420,7 +420,7 @@
     },
     "at:graz:leoben:murzzuschlag": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Mürzzuschlag [District Court]"
       },
       "institution-entire": {
         "bg": "BG Mürzzuschlag"
@@ -428,7 +428,7 @@
     },
     "at:graz:leoben:schladming": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Schladming [District Court]"
       },
       "institution-entire": {
         "bg": "BG Schladming"
@@ -436,7 +436,7 @@
     },
     "at:innsbruck": {
       "institution-part": {
-        "olg": "Oberlandesgericht"
+        "olg": "OLG Innsbruck [Higher Regional Court]"
       },
       "institution-entire": {
         "olg": "OLG Innsbruck"
@@ -444,7 +444,7 @@
     },
     "at:innsbruck:feldkirch": {
       "institution-part": {
-        "lg": "Landesgericht"
+        "lg": "LG Feldkirch [Regional Court]"
       },
       "institution-entire": {
         "lg": "LG Feldkirch"
@@ -452,7 +452,7 @@
     },
     "at:innsbruck:feldkirch:bezau": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Bezau [District Court]"
       },
       "institution-entire": {
         "bg": "BG Bezau"
@@ -460,7 +460,7 @@
     },
     "at:innsbruck:feldkirch:bludenz": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Bludenz [District Court]"
       },
       "institution-entire": {
         "bg": "BG Bludenz"
@@ -468,7 +468,7 @@
     },
     "at:innsbruck:feldkirch:bregenz": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Bregenz [District Court]"
       },
       "institution-entire": {
         "bg": "BG Bregenz"
@@ -476,7 +476,7 @@
     },
     "at:innsbruck:feldkirch:dornbirn": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Dornbirn [District Court]"
       },
       "institution-entire": {
         "bg": "BG Dornbirn"
@@ -484,7 +484,7 @@
     },
     "at:innsbruck:feldkirch:feldkirch": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Feldkirch [District Court]"
       },
       "institution-entire": {
         "bg": "BG Feldkirch"
@@ -492,7 +492,7 @@
     },
     "at:innsbruck:innsbruck": {
       "institution-part": {
-        "lg": "Landesgericht"
+        "lg": "LG Innsbruck [Regional Court]"
       },
       "institution-entire": {
         "lg": "LG Innsbruck"
@@ -500,7 +500,7 @@
     },
     "at:innsbruck:innsbruck:hall.in.tirol": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Hall in Tirol [District Court]"
       },
       "institution-entire": {
         "bg": "BG Hall in Tirol"
@@ -508,7 +508,7 @@
     },
     "at:innsbruck:innsbruck:imst": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Imst [District Court]"
       },
       "institution-entire": {
         "bg": "BG Imst"
@@ -516,7 +516,7 @@
     },
     "at:innsbruck:innsbruck:innsbruck": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Innsbruck [District Court]"
       },
       "institution-entire": {
         "bg": "BG Innsbruck"
@@ -524,7 +524,7 @@
     },
     "at:innsbruck:innsbruck:kitzbuhel": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Kitzbühel [District Court]"
       },
       "institution-entire": {
         "bg": "BG Kitzbühel"
@@ -532,7 +532,7 @@
     },
     "at:innsbruck:innsbruck:kufstein": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Kufstein [District Court]"
       },
       "institution-entire": {
         "bg": "BG Kufstein"
@@ -540,7 +540,7 @@
     },
     "at:innsbruck:innsbruck:landeck": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Landeck [District Court]"
       },
       "institution-entire": {
         "bg": "BG Landeck"
@@ -548,7 +548,7 @@
     },
     "at:innsbruck:innsbruck:lienz": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Lienz [District Court]"
       },
       "institution-entire": {
         "bg": "BG Lienz"
@@ -556,7 +556,7 @@
     },
     "at:innsbruck:innsbruck:rattenberg": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Rattenberg [District Court]"
       },
       "institution-entire": {
         "bg": "BG Rattenberg"
@@ -564,7 +564,7 @@
     },
     "at:innsbruck:innsbruck:reutte": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Reutte [District Court]"
       },
       "institution-entire": {
         "bg": "BG Reutte"
@@ -572,7 +572,7 @@
     },
     "at:innsbruck:innsbruck:schwaz": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Schwaz [District Court]"
       },
       "institution-entire": {
         "bg": "BG Schwaz"
@@ -580,7 +580,7 @@
     },
     "at:innsbruck:innsbruck:silz": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Silz [District Court]"
       },
       "institution-entire": {
         "bg": "BG Silz"
@@ -588,7 +588,7 @@
     },
     "at:innsbruck:innsbruck:telfs": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Telfs [District Court]"
       },
       "institution-entire": {
         "bg": "BG Telfs"
@@ -596,7 +596,7 @@
     },
     "at:innsbruck:innsbruck:zell.am.ziller": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Zell am Ziller [District Court]"
       },
       "institution-entire": {
         "bg": "BG Zell am Ziller"
@@ -604,8 +604,8 @@
     },
     "at:karnten": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht",
-        "uvs": "Unabhängiger Verwaltungssenat"
+        "lvwg": "LVwG Kärnten [Regional Administrative Court]",
+        "uvs": "UVS Kärnten [Independent Administrative Senate]"
       },
       "institution-entire": {
         "lvwg": "LVwG Kärnten",
@@ -614,7 +614,7 @@
     },
     "at:linz": {
       "institution-part": {
-        "olg": "Oberlandesgericht"
+        "olg": "OLG Linz [Higher Regional Court]"
       },
       "institution-entire": {
         "olg": "OLG Linz"
@@ -622,7 +622,7 @@
     },
     "at:linz:linz": {
       "institution-part": {
-        "lg": "Landesgericht"
+        "lg": "LG Linz [Regional Court]"
       },
       "institution-entire": {
         "lg": "LG Linz"
@@ -630,7 +630,7 @@
     },
     "at:linz:linz:freistadt": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Freistadt [District Court]"
       },
       "institution-entire": {
         "bg": "BG Freistadt"
@@ -638,7 +638,7 @@
     },
     "at:linz:linz:linz": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Linz [District Court]"
       },
       "institution-entire": {
         "bg": "BG Linz"
@@ -646,7 +646,7 @@
     },
     "at:linz:linz:perg": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Perg [District Court]"
       },
       "institution-entire": {
         "bg": "BG Perg"
@@ -654,7 +654,7 @@
     },
     "at:linz:linz:rohrbach": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Rohrbach [District Court]"
       },
       "institution-entire": {
         "bg": "BG Rohrbach"
@@ -662,7 +662,7 @@
     },
     "at:linz:linz:traun": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Traun [District Court]"
       },
       "institution-entire": {
         "bg": "BG Traun"
@@ -670,7 +670,7 @@
     },
     "at:linz:linz:urfahr": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Urfahr [District Court]"
       },
       "institution-entire": {
         "bg": "BG Urfahr"
@@ -678,7 +678,7 @@
     },
     "at:linz:ried.im.innkreis": {
       "institution-part": {
-        "lg": "Landesgericht"
+        "lg": "LG Ried im Innkreis [Regional Court]"
       },
       "institution-entire": {
         "lg": "LG Ried im Innkreis"
@@ -686,7 +686,7 @@
     },
     "at:linz:ried.im.innkreis:braunau.am.inn": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Braunau am Inn [District Court]"
       },
       "institution-entire": {
         "bg": "BG Braunau am Inn"
@@ -694,7 +694,7 @@
     },
     "at:linz:ried.im.innkreis:mattighofen": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Mattighofen [District Court]"
       },
       "institution-entire": {
         "bg": "BG Mattighofen"
@@ -702,7 +702,7 @@
     },
     "at:linz:ried.im.innkreis:ried.im.innkreis": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Ried im Innkreis [District Court]"
       },
       "institution-entire": {
         "bg": "BG Ried im Innkreis"
@@ -710,7 +710,7 @@
     },
     "at:linz:ried.im.innkreis:scharding": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Schärding [District Court]"
       },
       "institution-entire": {
         "bg": "BG Schärding"
@@ -718,7 +718,7 @@
     },
     "at:linz:salzburg": {
       "institution-part": {
-        "lg": "Landesgericht"
+        "lg": "LG Salzburg [Regional Court]"
       },
       "institution-entire": {
         "lg": "LG Salzburg"
@@ -726,7 +726,7 @@
     },
     "at:linz:salzburg:hallein": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Hallein [District Court]"
       },
       "institution-entire": {
         "bg": "BG Hallein"
@@ -734,7 +734,7 @@
     },
     "at:linz:salzburg:neumarkt.bei.salzburg": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Neumarkt bei Salzburg [District Court]"
       },
       "institution-entire": {
         "bg": "BG Neumarkt bei Salzburg"
@@ -742,7 +742,7 @@
     },
     "at:linz:salzburg:oberndorf": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Oberndorf [District Court]"
       },
       "institution-entire": {
         "bg": "BG Oberndorf"
@@ -750,7 +750,7 @@
     },
     "at:linz:salzburg:salzburg": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Salzburg [District Court]"
       },
       "institution-entire": {
         "bg": "BG Salzburg"
@@ -758,7 +758,7 @@
     },
     "at:linz:salzburg:sankt.johann.im.pongau": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Sankt Johann im Pongau [District Court]"
       },
       "institution-entire": {
         "bg": "BG Sankt Johann im Pongau"
@@ -766,7 +766,7 @@
     },
     "at:linz:salzburg:tamsweg": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Tamsweg [District Court]"
       },
       "institution-entire": {
         "bg": "BG Tamsweg"
@@ -774,7 +774,7 @@
     },
     "at:linz:salzburg:thalgau": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Thalgau [District Court]"
       },
       "institution-entire": {
         "bg": "BG Thalgau"
@@ -782,7 +782,7 @@
     },
     "at:linz:salzburg:zell.am.see": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Zell am See [District Court]"
       },
       "institution-entire": {
         "bg": "BG Zell am See"
@@ -790,7 +790,7 @@
     },
     "at:linz:steyr": {
       "institution-part": {
-        "lg": "Landesgericht"
+        "lg": "LG Steyr [Regional Court]"
       },
       "institution-entire": {
         "lg": "LG Steyr"
@@ -798,7 +798,7 @@
     },
     "at:linz:steyr:kirchdorf.an.der.krems": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Kirchdorf an der Krems [District Court]"
       },
       "institution-entire": {
         "bg": "BG Kirchdorf an der Krems"
@@ -806,7 +806,7 @@
     },
     "at:linz:steyr:steyr": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Steyr [District Court]"
       },
       "institution-entire": {
         "bg": "BG Steyr"
@@ -814,7 +814,7 @@
     },
     "at:linz:wels": {
       "institution-part": {
-        "lg": "Landesgericht"
+        "lg": "LG Wels [Regional Court]"
       },
       "institution-entire": {
         "lg": "LG Wels"
@@ -822,7 +822,7 @@
     },
     "at:linz:wels:bad.ischl": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Bad Ischl [District Court]"
       },
       "institution-entire": {
         "bg": "BG Bad Ischl"
@@ -830,7 +830,7 @@
     },
     "at:linz:wels:eferding": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Eferding [District Court]"
       },
       "institution-entire": {
         "bg": "BG Eferding"
@@ -838,7 +838,7 @@
     },
     "at:linz:wels:gmunden": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Gmunden [District Court]"
       },
       "institution-entire": {
         "bg": "BG Gmunden"
@@ -846,7 +846,7 @@
     },
     "at:linz:wels:grieskirchen": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Grieskirchen [District Court]"
       },
       "institution-entire": {
         "bg": "BG Grieskirchen"
@@ -854,7 +854,7 @@
     },
     "at:linz:wels:vocklabruck": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Vöcklabruck [District Court]"
       },
       "institution-entire": {
         "bg": "BG Vöcklabruck"
@@ -862,7 +862,7 @@
     },
     "at:linz:wels:wels": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Wels [District Court]"
       },
       "institution-entire": {
         "bg": "BG Wels"
@@ -870,8 +870,8 @@
     },
     "at:niederosterreich": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht",
-        "uvs": "Unabhängiger Verwaltungssenat"
+        "lvwg": "LVwG Niederösterreich [Regional Administrative Court]",
+        "uvs": "UVS Niederösterreich [Independent Administrative Senate]"
       },
       "institution-entire": {
         "lvwg": "LVwG Niederösterreich",
@@ -880,8 +880,8 @@
     },
     "at:oberosterreich": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht",
-        "uvs": "Unabhängiger Verwaltungssenat"
+        "lvwg": "LVwG Oberösterreich [Regional Administrative Court]",
+        "uvs": "UVS Oberösterreich [Independent Administrative Senate]"
       },
       "institution-entire": {
         "lvwg": "LVwG Oberösterreich",
@@ -890,8 +890,8 @@
     },
     "at:salzburg": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht",
-        "uvs": "Unabhängiger Verwaltungssenat"
+        "lvwg": "LVwG Salzburg [Regional Administrative Court]",
+        "uvs": "UVS Salzburg [Independent Administrative Senate]"
       },
       "institution-entire": {
         "lvwg": "LVwG Salzburg",
@@ -900,8 +900,8 @@
     },
     "at:steiermark": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht",
-        "uvs": "Unabhängiger Verwaltungssenat"
+        "lvwg": "LVwG Steiermark [Regional Administrative Court]",
+        "uvs": "UVS Steiermark [Independent Administrative Senate]"
       },
       "institution-entire": {
         "lvwg": "LVwG Steiermark",
@@ -910,8 +910,8 @@
     },
     "at:tirol": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht",
-        "uvs": "Unabhängiger Verwaltungssenat"
+        "lvwg": "LVwG Tirol [Regional Administrative Court]",
+        "uvs": "UVS Tirol [Independent Administrative Senate]"
       },
       "institution-entire": {
         "lvwg": "LVwG Tirol",
@@ -920,8 +920,8 @@
     },
     "at:vorarlberg": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht",
-        "uvs": "Unabhängiger Verwaltungssenat"
+        "lvwg": "LVwG Vorarlberg [Regional Administrative Court]",
+        "uvs": "UVS Vorarlberg [Independent Administrative Senate]"
       },
       "institution-entire": {
         "lvwg": "LVwG Vorarlberg",
@@ -930,9 +930,9 @@
     },
     "at:wien": {
       "institution-part": {
-        "olg": "Oberlandesgericht",
-        "vgw": "Verwaltungsgericht",
-        "uvs": "Unabhängiger Verwaltungssenat"
+        "olg": "OLG Wien [Higher Regional Court]",
+        "vgw": "VGW [Regional Administrative Court]",
+        "uvs": "UVS Wien [Independent Administrative Senate]"
       },
       "institution-entire": {
         "olg": "OLG Wien",
@@ -942,7 +942,7 @@
     },
     "at:wien:eisenstadt": {
       "institution-part": {
-        "lg": "Landesgericht"
+        "lg": "LG Eisenstadt [Regional Court]"
       },
       "institution-entire": {
         "lg": "LG Eisenstadt"
@@ -950,7 +950,7 @@
     },
     "at:wien:eisenstadt:eisenstadt": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Eisenstadt [District Court]"
       },
       "institution-entire": {
         "bg": "BG Eisenstadt"
@@ -958,7 +958,7 @@
     },
     "at:wien:eisenstadt:gussing": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Güssing [District Court]"
       },
       "institution-entire": {
         "bg": "BG Güssing"
@@ -966,7 +966,7 @@
     },
     "at:wien:eisenstadt:mattersburg": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Mattersburg [District Court]"
       },
       "institution-entire": {
         "bg": "BG Mattersburg"
@@ -974,7 +974,7 @@
     },
     "at:wien:eisenstadt:neusiedl.am.see": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Neusiedl am See [District Court]"
       },
       "institution-entire": {
         "bg": "BG Neusiedl am See"
@@ -982,7 +982,7 @@
     },
     "at:wien:eisenstadt:oberpullendorf": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Oberpullendorf [District Court]"
       },
       "institution-entire": {
         "bg": "BG Oberpullendorf"
@@ -990,7 +990,7 @@
     },
     "at:wien:eisenstadt:oberwart": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Oberwart [District Court]"
       },
       "institution-entire": {
         "bg": "BG Oberwart"
@@ -998,7 +998,7 @@
     },
     "at:wien:korneuburg": {
       "institution-part": {
-        "lg": "Landesgericht"
+        "lg": "LG Korneuburg [Regional Court]"
       },
       "institution-entire": {
         "lg": "LG Korneuburg"
@@ -1006,7 +1006,7 @@
     },
     "at:wien:korneuburg:bruck.an.der.leitha": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Bruck an der Leitha [District Court]"
       },
       "institution-entire": {
         "bg": "BG Bruck an der Leitha"
@@ -1014,7 +1014,7 @@
     },
     "at:wien:korneuburg:ganserndorf": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Gänserndorf [District Court]"
       },
       "institution-entire": {
         "bg": "BG Gänserndorf"
@@ -1022,7 +1022,7 @@
     },
     "at:wien:korneuburg:hollabrunn": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Hollabrunn [District Court]"
       },
       "institution-entire": {
         "bg": "BG Hollabrunn"
@@ -1030,7 +1030,7 @@
     },
     "at:wien:korneuburg:klosterneuburg": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Klosterneuburg [District Court]"
       },
       "institution-entire": {
         "bg": "BG Klosterneuburg"
@@ -1038,7 +1038,7 @@
     },
     "at:wien:korneuburg:korneuburg": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Korneuburg [District Court]"
       },
       "institution-entire": {
         "bg": "BG Korneuburg"
@@ -1046,7 +1046,7 @@
     },
     "at:wien:korneuburg:mistelbach": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Mistelbach [District Court]"
       },
       "institution-entire": {
         "bg": "BG Mistelbach"
@@ -1054,7 +1054,7 @@
     },
     "at:wien:korneuburg:schwechat": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Schwechat [District Court]"
       },
       "institution-entire": {
         "bg": "BG Schwechat"
@@ -1062,7 +1062,7 @@
     },
     "at:wien:krems.an.der.donau": {
       "institution-part": {
-        "lg": "Landesgericht"
+        "lg": "LG Krems an der Donau [Regional Court]"
       },
       "institution-entire": {
         "lg": "LG Krems an der Donau"
@@ -1070,7 +1070,7 @@
     },
     "at:wien:krems.an.der.donau:gmund.in.niederosterreich": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Gmünd in Niederösterreich [District Court]"
       },
       "institution-entire": {
         "bg": "BG Gmünd in Niederösterreich"
@@ -1078,7 +1078,7 @@
     },
     "at:wien:krems.an.der.donau:horn": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Horn [District Court]"
       },
       "institution-entire": {
         "bg": "BG Horn"
@@ -1086,7 +1086,7 @@
     },
     "at:wien:krems.an.der.donau:krems.an.der.donau": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Krems an der Donau [District Court]"
       },
       "institution-entire": {
         "bg": "BG Krems an der Donau"
@@ -1094,7 +1094,7 @@
     },
     "at:wien:krems.an.der.donau:waidhofen.an.der.thaya": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Waidhofen an der Thaya [District Court]"
       },
       "institution-entire": {
         "bg": "BG Waidhofen an der Thaya"
@@ -1102,7 +1102,7 @@
     },
     "at:wien:krems.an.der.donau:zwettl": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Zwettl [District Court]"
       },
       "institution-entire": {
         "bg": "BG Zwettl"
@@ -1110,7 +1110,7 @@
     },
     "at:wien:st.polten": {
       "institution-part": {
-        "lg": "Landesgericht"
+        "lg": "LG St. Pölten [Regional Court]"
       },
       "institution-entire": {
         "lg": "LG St. Pölten"
@@ -1118,7 +1118,7 @@
     },
     "at:wien:st.polten:amstetten": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Amstetten [District Court]"
       },
       "institution-entire": {
         "bg": "BG Amstetten"
@@ -1126,7 +1126,7 @@
     },
     "at:wien:st.polten:haag": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Haag [District Court]"
       },
       "institution-entire": {
         "bg": "BG Haag"
@@ -1134,7 +1134,7 @@
     },
     "at:wien:st.polten:lilienfeld": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Lilienfeld [District Court]"
       },
       "institution-entire": {
         "bg": "BG Lilienfeld"
@@ -1142,7 +1142,7 @@
     },
     "at:wien:st.polten:melk": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Melk [District Court]"
       },
       "institution-entire": {
         "bg": "BG Melk"
@@ -1150,7 +1150,7 @@
     },
     "at:wien:st.polten:neulengbach": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Neulengbach [District Court]"
       },
       "institution-entire": {
         "bg": "BG Neulengbach"
@@ -1158,7 +1158,7 @@
     },
     "at:wien:st.polten:purkersdorf": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Purkersdorf [District Court]"
       },
       "institution-entire": {
         "bg": "BG Purkersdorf"
@@ -1166,7 +1166,7 @@
     },
     "at:wien:st.polten:scheibbs": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Scheibbs [District Court]"
       },
       "institution-entire": {
         "bg": "BG Scheibbs"
@@ -1174,7 +1174,7 @@
     },
     "at:wien:st.polten:st.polten": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG St. Pölten [District Court]"
       },
       "institution-entire": {
         "bg": "BG St. Pölten"
@@ -1182,7 +1182,7 @@
     },
     "at:wien:st.polten:tulln": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Tulln [District Court]"
       },
       "institution-entire": {
         "bg": "BG Tulln"
@@ -1190,7 +1190,7 @@
     },
     "at:wien:st.polten:waidhofen.an.der.ybbs": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Waidhofen an der Ybbs [District Court]"
       },
       "institution-entire": {
         "bg": "BG Waidhofen an der Ybbs"
@@ -1198,10 +1198,10 @@
     },
     "at:wien:wien": {
       "institution-part": {
-        "asg": "Arbeits und Sozialgericht",
-        "hg": "Handelsgericht",
-        "lgs": "Landesgericht für Strafsachen",
-        "lgzrs": "Landesgericht für Zivilrechtssachen"
+        "asg": "ASG Wien [Labour and Social Court]",
+        "hg": "HG Wien [Commercial Court]",
+        "lgs": "LGS Wien [Regional Criminal Court]",
+        "lgzrs": "LGZ Wien [Regional Civil Court]"
       },
       "institution-entire": {
         "asg": "ASG Wien",
@@ -1212,7 +1212,7 @@
     },
     "at:wien:wien:dobling": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Döbling [District Court]"
       },
       "institution-entire": {
         "bg": "BG Döbling"
@@ -1220,7 +1220,7 @@
     },
     "at:wien:wien:donaustadt": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Donaustadt [District Court]"
       },
       "institution-entire": {
         "bg": "BG Donaustadt"
@@ -1228,7 +1228,7 @@
     },
     "at:wien:wien:favoriten": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Favoriten [District Court]"
       },
       "institution-entire": {
         "bg": "BG Favoriten"
@@ -1236,7 +1236,7 @@
     },
     "at:wien:wien:floridsdorf": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Floridsdorf [District Court]"
       },
       "institution-entire": {
         "bg": "BG Floridsdorf"
@@ -1244,7 +1244,7 @@
     },
     "at:wien:wien:funfhaus": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Fünfhaus [District Court]"
       },
       "institution-entire": {
         "bg": "BG Fünfhaus"
@@ -1252,7 +1252,7 @@
     },
     "at:wien:wien:hernals": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Hernals [District Court]"
       },
       "institution-entire": {
         "bg": "BG Hernals"
@@ -1260,7 +1260,7 @@
     },
     "at:wien:wien:hietzing": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Hietzing [District Court]"
       },
       "institution-entire": {
         "bg": "BG Hietzing"
@@ -1268,7 +1268,7 @@
     },
     "at:wien:wien:innere.stadt.wien": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Innere Stadt Wien [District Court]"
       },
       "institution-entire": {
         "bg": "BG Innere Stadt Wien"
@@ -1276,7 +1276,7 @@
     },
     "at:wien:wien:josefstadt": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Josefstadt [District Court]"
       },
       "institution-entire": {
         "bg": "BG Josefstadt"
@@ -1284,7 +1284,7 @@
     },
     "at:wien:wien:leopoldstadt": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Leopoldstadt [District Court]"
       },
       "institution-entire": {
         "bg": "BG Leopoldstadt"
@@ -1292,7 +1292,7 @@
     },
     "at:wien:wien:liesing": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Liesing [District Court]"
       },
       "institution-entire": {
         "bg": "BG Liesing"
@@ -1300,7 +1300,7 @@
     },
     "at:wien:wien:meidling": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Meidling [District Court]"
       },
       "institution-entire": {
         "bg": "BG Meidling"
@@ -1308,7 +1308,7 @@
     },
     "at:wien:wiener.neustadt": {
       "institution-part": {
-        "lg": "Landesgericht"
+        "lg": "LG Wiener Neustadt [Regional Court]"
       },
       "institution-entire": {
         "lg": "LG Wiener Neustadt"
@@ -1316,7 +1316,7 @@
     },
     "at:wien:wiener.neustadt:baden": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Baden [District Court]"
       },
       "institution-entire": {
         "bg": "BG Baden"
@@ -1324,7 +1324,7 @@
     },
     "at:wien:wiener.neustadt:modling": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Mödling [District Court]"
       },
       "institution-entire": {
         "bg": "BG Mödling"
@@ -1332,7 +1332,7 @@
     },
     "at:wien:wiener.neustadt:neunkirchen": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Neunkirchen [District Court]"
       },
       "institution-entire": {
         "bg": "BG Neunkirchen"
@@ -1340,7 +1340,7 @@
     },
     "at:wien:wiener.neustadt:wiener.neustadt": {
       "institution-part": {
-        "bg": "Bezirksgericht"
+        "bg": "BG Wiener Neustadt [District Court]"
       },
       "institution-entire": {
         "bg": "BG Wiener Neustadt"
