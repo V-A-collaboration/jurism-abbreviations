@@ -1,7 +1,7 @@
 {
   "filename": "auto-be-belgië.json",
   "name": "Abbreviations: België legal",
-  "version": 1,
+  "version": "2021-06-30",
   "xdata": {
     "default": {
       "place": {
@@ -11,6 +11,7 @@
         "BE:ANTWERPEN:ANTWERPEN:ARENDONK": "Arendonk",
         "BE:ANTWERPEN:ANTWERPEN:BOOM": "Boom",
         "BE:ANTWERPEN:ANTWERPEN:BRASSCHAAT": "Brasschaat",
+		"BE:ANTWERPEN:ANTWERPEN:DEURNE": "Deurne",
         "BE:ANTWERPEN:ANTWERPEN:GEEL": "Geel",
         "BE:ANTWERPEN:ANTWERPEN:HEIST.OP.DEN.BERG": "Heist-op-den-Berg",
         "BE:ANTWERPEN:ANTWERPEN:HERENTALS": "Herentals",
@@ -20,6 +21,7 @@
         "BE:ANTWERPEN:ANTWERPEN:LIER": "Lier",
         "BE:ANTWERPEN:ANTWERPEN:MECHELEN": "Mechelen",
         "BE:ANTWERPEN:ANTWERPEN:MOL": "Mol",
+		"BE:ANTWERPEN:ANTWERPEN:MOL.GEEL": "Mol-Geel",
         "BE:ANTWERPEN:ANTWERPEN:SCHILDE": "Schilde",
         "BE:ANTWERPEN:ANTWERPEN:TURNHOUT": "Turnhout",
         "BE:ANTWERPEN:ANTWERPEN:WESTERLO": "Westerlo",
@@ -37,23 +39,30 @@
         "BE:ANTWERPEN:LIMBURG:MAASEIK": "Maaseik",
         "BE:ANTWERPEN:LIMBURG:MAASMECHELEN": "Maasmechelen",
         "BE:ANTWERPEN:LIMBURG:NEERPELT.LOMMEL": "Neerpelt-Lommel",
+		"BE:ANTWERPEN:LIMBURG:NEERPELT": "Neerpelt",
+		"BE:ANTWERPEN:LIMBURG:PELT": "Pelt",
         "BE:ANTWERPEN:LIMBURG:SINT.TRUIDEN": "Sint-Truiden",
         "BE:ANTWERPEN:LIMBURG:TONGEREN": "Tongeren",
         "BE:ANTWERPEN:LIMBURG:TONGEREN.VOEREN": "Tongeren-Voeren",
         "BE:BERGEN": "Bergen",
         "BE:BERGEN:HENEGOUWEN": "Henegouwen",
+		"BE:BERGEN:HENEGOUWEN:AAT": "Aat",
         "BE:BERGEN:HENEGOUWEN:AAT.LESSEN": "Aat-Lessen",
         "BE:BERGEN:HENEGOUWEN:BERGEN": "Bergen",
         "BE:BERGEN:HENEGOUWEN:BEAUMONT.CHIMAY.MERBES.LE.CHATEAU": "Beaumont-Chimay-Merbes-le-Château",
         "BE:BERGEN:HENEGOUWEN:BINCHE": "Binche",
         "BE:BERGEN:HENEGOUWEN:BOUSSU": "Boussu",
+		"BE:BERGEN:HENEGOUWEN:BOUSSU.COLFONTAINE": "Boussu-Colfontaine",
         "BE:BERGEN:HENEGOUWEN:CHATELET": "Châtelet",
         "BE:BERGEN:HENEGOUWEN:CHARLEROI": "Charleroi",
+		"BE:BERGEN:HENEGOUWEN:CHIMAY": "Chimay",
         "BE:BERGEN:HENEGOUWEN:DOORNIK": "Doornik",
+		"BE:BERGEN:HENEGOUWEN:DOUR": "Dour",
         "BE:BERGEN:HENEGOUWEN:DOUR.COLFONTAINE": "Dour-Colfontaine",
         "BE:BERGEN:HENEGOUWEN:ENGHIEN.LENS": "Enghien-Lens",
         "BE:BERGEN:HENEGOUWEN:FONTAINE.L.EVEQUE": "Fontaine-l'Evêque",
         "BE:BERGEN:HENEGOUWEN:LA.LOUVIÈRE": "La Louvière",
+		"BE:BERGEN:HENEGOUWEN:LEUZE.EN.HAINAUT": "Leuze-en-Hainaut",
         "BE:BERGEN:HENEGOUWEN:MOESKROEN": "Moeskroen",
         "BE:BERGEN:HENEGOUWEN:MOESKROEN.KOMEN.WAASTEN": "Moeskroen-Komen-Waasten",
         "BE:BERGEN:HENEGOUWEN:PERUWELZ.LEUZE.EN.HAINAUT": "Péruwelz-Leuze en Hainaut",
@@ -65,9 +74,11 @@
         "BE:BRUSSEL:BRUSSEL:ANDERLECHT": "Anderlecht",
         "BE:BRUSSEL:BRUSSEL:ELSENE": "Elsene",
         "BE:BRUSSEL:BRUSSEL:ETTERBEEK": "Etterbeek",
+		"BE:BRUSSEL:BRUSSEL:GANSHOREN": "Ganshoren",
         "BE:BRUSSEL:BRUSSEL:JETTE": "Jette",
-        "BE:BRUSSEL:BRUSSEL:OUDERGHEM": "Ouderghem",
+        "BE:BRUSSEL:BRUSSEL:OUDERGHEM": "Oudergem",
         "BE:BRUSSEL:BRUSSEL:SCHAARBEEK": "Schaarbeek",
+		"BE:BRUSSEL:BRUSSEL:SINT.GENESIUS.RODE": "Sint-Genesius-Rode",
         "BE:BRUSSEL:BRUSSEL:SINT.GILLIS": "Sint-Gillis",
         "BE:BRUSSEL:BRUSSEL:SINT.JANS.MOLENBEEK": "Sint-Jans-Molenbeek",
         "BE:BRUSSEL:BRUSSEL:SINT.JOOST.TEN.NODE": "Sint-Joost-ten-Node",
@@ -90,13 +101,19 @@
         "BE:BRUSSEL:VLAAMS.BRABANT:OVERIJSE.ZAVENTEM": "Overijse-Zaventem",
         "BE:BRUSSEL:VLAAMS.BRABANT:TIENEN": "Tienen",
         "BE:BRUSSEL:VLAAMS.BRABANT:VILVOORDE": "Vilvoorde",
+		"BE:BRUSSEL:VLAAMS.BRABANT:ZAVENTEM": "Zaventem",
+		"BE:BRUSSEL:VLAAMS.BRABANT:ZOUTLEEUW": "Zoutleeuw",
         "BE:BRUSSEL:WAALS.BRABANT": "Waals-Brabant",
+		"BE:BRUSSEL:WAALS.BRABANT:GELDENAKEN": "Geldenaken",
         "BE:BRUSSEL:WAALS.BRABANT:GELDENAKEN.PERWIJS": "Geldenaken-Perwijs",
         "BE:BRUSSEL:WAALS.BRABANT:NIJVEL": "Nijvel",
         "BE:BRUSSEL:WAALS.BRABANT:WAVER": "Waver",
         "BE:BRUSSEL:WAALS.BRABANT:EIGENBRAKEL": "Eigenbrakel",
         "BE:BRUSSEL:WAALS.BRABANT:TUBEKE": "Tubeke",
-        "BE:GENT": "Gent",
+        "BE:EUPEN": "Eupen",
+		"BE:EUPEN:LUIK:EUPEN": "Eupen",
+		"BE:EUPEN:LUIK:SAINT.VITH": "Saint-Vith",
+		"BE:GENT": "Gent",
         "BE:GENT:OOST.VLAANDEREN": "Oost-Vlaanderen",
         "BE:GENT:OOST.VLAANDEREN:AALST": "Aalst",
         "BE:GENT:OOST.VLAANDEREN:BEVEREN": "Beveren",
@@ -105,7 +122,10 @@
         "BE:GENT:OOST.VLAANDEREN:DENDERMONDE.HAMME": "Dendermonde-Hamme",
         "BE:GENT:OOST.VLAANDEREN:EEKLO": "Eeklo",
         "BE:GENT:OOST.VLAANDEREN:GENT": "Gent",
+		"BE:GENT:OOST.VLAANDEREN:GERAARDBERGEN": "Geraardsbergen",
         "BE:GENT:OOST.VLAANDEREN:GERAARDSBERGEN.BRAKEL": "Geraardsbergen-Brakel",
+		"BE:GENT:OOST.VLAANDEREN:HAMME": "Hamme",
+		"BE:GENT:OOST.VLAANDEREN:HERZELE": "Herzele",
         "BE:GENT:OOST.VLAANDEREN:LOKEREN": "Lokeren",
         "BE:GENT:OOST.VLAANDEREN:MERELBEKE": "Merelbeke",
         "BE:GENT:OOST.VLAANDEREN:NINOVE": "Ninove",
@@ -127,6 +147,7 @@
         "BE:GENT:WEST.VLAANDEREN:KORTRIJK": "Kortrijk",
         "BE:GENT:WEST.VLAANDEREN:MENEN": "Menen",
         "BE:GENT:WEST.VLAANDEREN:OOSTENDE": "Oostende",
+		"BE:GENT:WEST.VLAANDEREN:POPERINGE": "Poperinge",
         "BE:GENT:WEST.VLAANDEREN:ROESELARE": "Roeselare",
         "BE:GENT:WEST.VLAANDEREN:TIELT": "Tielt",
         "BE:GENT:WEST.VLAANDEREN:TORHOUT": "Torhout",
@@ -134,67 +155,81 @@
         "BE:GENT:WEST.VLAANDEREN:VEURNE": "Veurne",
         "BE:GENT:WEST.VLAANDEREN:WAREGEM": "Waregem",
         "BE:GENT:WEST.VLAANDEREN:WERVIK": "Wervik",
-        "BE:LUIK": "Luik",
+        "BE:LEUVEN": "Leuven",
+		"BE:LEUVEN:VLAAMS.BRABANT": "Leuven",
+		"BE:LEUVEN:VLAAMS.BRABANT:AARSCHOT": "Aarschot",
+		"BE:LEUVEN:VLAAMS.BRABANT:DIEST": "Diest",
+		"BE:LEUVEN:VLAAMS.BRABANT:LEUVEN": "Leuven",
+		"BE:LUIK": "Luik",
         "BE:LUIK:LUIK": "Luik",
         "BE:LUIK:LUIK:BORGWORM": "Borgworm",
         "BE:LUIK:LUIK:EUPEN": "Eupen",
         "BE:LUIK:LUIK:FLERON": "Fléron",
         "BE:LUIK:LUIK:HOEI": "Hoei",
-        "BE:LUIK:LUIK:EUPEN:SANKT.VITH": "Sankt-Vith",
+        "BE:LUIK:LUIK:EUPEN:SANKT.VITH": "Saint-Vith",
         "BE:LUIK:LUIK:GRACE.HOLLOGNE": "Grâce-Hollogne",
         "BE:LUIK:LUIK:HAMOIR": "Hamoir",
         "BE:LUIK:LUIK:HERSTAL": "Herstal",
         "BE:LUIK:LUIK:HOEI.HANNUIT": "Hoei-Hannuit",
+		"BE:LUIK:LUIK:LIMBOURG": "Limbourg",
         "BE:LUIK:LUIK:MALMEDY.SPA.STAVELOT": "Malmédy-Spa-Stavelot",
         "BE:LUIK:LUIK:SAINT.NICOLAS.LEZ.LIEGE": "Saint-Nicolas-lez-Liège",
         "BE:LUIK:LUIK:SERAING": "Seraing",
+		"BE:LUIK:LUIK:SPA": "Spa",
+		"BE:LUIK:LUIK:STAVELOT": "Stavelot",
         "BE:LUIK:LUIK:SPRIMONT": "Sprimont",
         "BE:LUIK:LUIK:VERVIERS": "Verviers",
         "BE:LUIK:LUIK:WEZET": "Wezet",
-        "BE:LUIK:LUXUMBURG": "Luxumburg",
-        "BE:LUIK:LUXUMBURG:AARLEN": "Aarlen",
-        "BE:LUIK:LUXUMBURG:AARLEN.MESSANCY": "Aarlen-Messancy",
-        "BE:LUIK:LUXUMBURG:BASTENAKEN.NEUFCHATEAU": "Bastenaken-Neufchâteau",
-        "BE:LUIK:LUXUMBURG:MARCHE.EN.FAMENNE": "Marche-en-Famenne",
-        "BE:LUIK:LUXUMBURG:MARCHE.EN.FAMENNE.DURBUY": "Marche-en-Famenne-Durbuy",
-        "BE:LUIK:LUXUMBURG:NEUFCHATEAU": "Neufchâteau",
-        "BE:LUIK:LUXUMBURG:SAINT.HUBERT.BOUILLON.PALISEUL": "Saint-Hubert-Bouillon-Paliseul",
-        "BE:LUIK:LUXUMBURG:VIELSALM.LA.ROCHE.EN.ARDENNE.HOUFFALIZE": "Vielsalm-La Roche en Ardenne-Houffalize",
-        "BE:LUIK:LUXUMBURG:VIRTON.FLORENVILLE.ETALLE": "Virton-Florenville-Etalle",
+        "BE:LUIK:LUXEMBURG": "Luxemburg",
+        "BE:LUIK:LUXEMBURG:AARLEN": "Aarlen",
+        "BE:LUIK:LUXEMBURG:AARLEN.MESSANCY": "Aarlen-Messancy",
+		"BE:LUIK:LUXEMBURG:BASTENAKEN": "Bastenaken",
+        "BE:LUIK:LUXEMBURG:BASTENAKEN.NEUFCHATEAU": "Bastenaken-Neufchâteau",
+        "BE:LUIK:LUXEMBURG:MARCHE.EN.FAMENNE": "Marche-en-Famenne",
+        "BE:LUIK:LUXEMBURG:MARCHE.EN.FAMENNE.DURBUY": "Marche-en-Famenne-Durbuy",
+        "BE:LUIK:LUXEMBURG:NEUFCHATEAU": "Neufchâteau",
+        "BE:LUIK:LUXEMBURG:SAINT.HUBERT.BOUILLON.PALISEUL": "Saint-Hubert-Bouillon-Paliseul",
+        "BE:LUIK:LUXEMBURG:VIELSALM.LA.ROCHE.EN.ARDENNE.HOUFFALIZE": "Vielsalm-La Roche en Ardenne-Houffalize",
+		"BE:LUIK:LUXEMBURG:VIRTON": "Virton",
+        "BE:LUIK:LUXEMBURG:VIRTON.FLORENVILLE.ETALLE": "Virton-Florenville-Etalle",
         "BE:LUIK:NAMEN": "Namen",
         "BE:LUIK:NAMEN:ANDENNE": "Andenne",
         "BE:LUIK:NAMEN:BEAURAING.DINANT.GEDINNE": "Beauraing-Dinant-Gedinne",
+		"BE:LUIK:NAMEN:CINEY": "Ciney",
         "BE:LUIK:NAMEN:CINEY.ROCHEFORT": "Ciney-Rochefort",
         "BE:LUIK:NAMEN:DINANT": "Dinant",
         "BE:LUIK:NAMEN:FOSSES.LA.VILLE": "Fosses-la-Ville",
-        "BE:LUIK:NAMEN:GEMBLOUX.EGHEZEE": "Gembloux-Eghezée",
+		"BE:LUIK:NAMEN:GEMBLOURS": "Gembloers",
+        "BE:LUIK:NAMEN:GEMBLOERS.EGHEZEE": "Gembloers-Eghezée",
         "BE:LUIK:NAMEN:NAMEN": "Namen",
+		"BE:LUIK:NAMEN:PHILIPPEVILLE": "Philippeville",
         "BE:LUIK:NAMEN:PHILIPPEVILLE.COUVIN": "Philippeville-Couvin",
+		"BE:LUIK:NAMEN:PHILIPPEVILLE.FLORENNES": "Philippeville-Florennes",
         "BE:LUIK:NAMEN:WALCOURT.FLORENNES": "Walcourt-Florennes"
       }
     },
     "be": {
       "institution-part": {
-        "sc": "Hof van Cassatie",
-        "cs": "Raad van State",
-        "bma": "Belgische Mededingingsautoriteit",
-        "permitc": "Raad voor Vergunningsbetwistingen",
-        "electionc": "Raad voor Verkiezingsbetwistingen",
-        "migc": "Raad voor Vreemdelingenbetwistingen",
-        "educ": "Raad voor betwistingen inzake studievoortgangsbeslissingen",
-        "mc": "Krijgsraad",
-        "milc": "Militair Gerechtshof",
-        "const": "Grondwettelijk Hof",
-        "envc": "Milieuhandhavingscollege"
+        "sc": "Cass.",
+        "cs": "RvS",
+        "bma": "BMA",
+        "permitc": "RvVb",
+        "electionc": "R. Verkb.",
+        "migc": "RvV",
+        "educ": "R.Stvb.",
+        "mc": "Kr.",
+        "milc": "Mil. Ger.",
+        "const": "GwH",
+        "envc": "MHHC"
       }
     },
     "be:antwerpen": {
       "institution-part": {
-        "lca": "Antwerpen (afd. Antwerpen)",
-        "lc": "Antwerpen (afd. Antwerpen)",
+        "lca": "Arbh. Antwerpen",
+        "lc": "Arbrb. Antwerpen",
         "pres.lc": "Voorz. Arbrb. Antwerpen",
-        "pc": "Antwerpen (afd. Antwerpen)",
-        "cfi": "Antwerpen (afd. Antwerpen)",
+        "pc": "Pol. Antwerpen",
+        "cfi": "Rb. Antwerpen",
         "pres.cfi": "Voorz. Rb. Antwerpen",
         "pres": "Voorz. Antwerpen",
         "corrc": "Corr. Antwerpen",
@@ -202,7 +237,6 @@
         "juvc": "Jeugdrb. Antwerpen",
         "br": "Beslagr. Antwerpen",
         "sentc": "Surb. Antwerpen",
-        "cc": "Antwerpen (afd. Antwerpen)",
         "pres.cc": "Voorz. Kh. Antwerpen",
         "dc": "Vred. Antwerpen",
         "dc.1": "Vred. Antwerpen (I)",
@@ -216,12 +250,20 @@
         "dc.9": "Vred. Antwerpen (IX)",
         "dc.10": "Vred. Antwerpen (X)",
         "dc.11": "Vred. Antwerpen (XI)",
-        "dc.12": "Vred. Antwerpen (XII)"
+        "dc.12": "Vred. Antwerpen (XII)",
+		"ca": "Antwerpen",
+		"cc": "Kh. Antwerpen",
+		"or": "Or. Antwerpen",
+		"coass": "Assisen Antwerpen"
       }
     },
     "be:antwerpen:antwerpen": {
       "institution-part": {
-        "coass": "Assisen Antwerpen",
+		"cc": "Kh. Antwerpen (afd. Antwerpen)",
+		"cfi": "Rb. Antwerpen (afd. Antwerpen)",
+		"lc": "Arbrb. Antwerpen (afd. Antwerpen)",
+		"or": "Or. Antwerpen (afd. Antwerpen)",
+		"pc": "Pol. Antwerpen (afd. Antwerpen)",
         "lca": "Antwerpen (afd. Antwerpen)",
         "dc": "Vred. Antwerpen"
       }
@@ -239,6 +281,11 @@
     "be:antwerpen:antwerpen:brasschaat": {
       "institution-part": {
         "dc": "Vred. Brasschaat"
+      }
+    },
+    "be:antwerpen:antwerpen:deurne": {
+      "institution-part": {
+        "dc": "Vred. Deurne"
       }
     },
     "be:antwerpen:antwerpen:geel": {
@@ -278,25 +325,30 @@
     },
     "be:antwerpen:antwerpen:mechelen": {
       "institution-part": {
-        "lc": "Antwerpen (afd. Mechelen)",
-        "pres.lc": "Voorz. Arbrb. Mechelen",
-        "pc": "Antwerpen (afd. Mechelen)",
-        "cfi": "Antwerpen (afd. Mechelen)",
-        "pres.cfi": "Voorz. Rb. Mechelen",
+        "lc": "Arbrb. Antwerpen (afd. Mechelen)",
+        "pres.lc": "Voorz. Arbrb. Antwerpen (afd. Mechelen)",
+        "pc": "Pol. Antwerpen (afd. Mechelen)",
+        "cfi": "Rb. Antwerpen (afd. Mechelen)",
+        "pres.cfi": "Voorz. Rb. Antwerpen (afd. Mechelen)",
         "pres": "Voorz. Mechelen",
-        "corrc": "Corr. Mechelen",
-        "famc": "Famrb. Mechelen",
-        "juvc": "Jeugdrb. Mechelen",
-        "br": "Beslagr. Mechelen",
-        "sentc": "Surb. Mechelen",
-        "cc": "Antwerpen (afd. Mechelen)",
-        "pres.cc": "Voorz. Kh. Mechelen",
+        "corrc": "Corr. Antwerpen (afd. Mechelen)",
+        "famc": "Famrb. Antwerpen (afd. Mechelen)",
+        "juvc": "Jeugdrb. Antwerpen (afd. Mechelen)",
+        "br": "Beslagr. Antwerpen (afd. Mechelen)",
+        "sentc": "Surb. Antwerpen (afd. Mechelen)",
+        "cc": "Kh. Antwerpen (afd. Mechelen)",
+        "pres.cc": "Voorz. Kh. Antwerpen (afd. Mechelen)",
         "dc": "Vred. Mechelen"
       }
     },
     "be:antwerpen:antwerpen:mol": {
       "institution-part": {
         "dc": "Vred. Mol"
+      }
+    },
+	"be:antwerpen:antwerpen:mol-geel": {
+      "institution-part": {
+        "dc": "Vred. Mol-Geel"
       }
     },
     "be:antwerpen:antwerpen:schilde": {
@@ -306,19 +358,19 @@
     },
     "be:antwerpen:antwerpen:turnhout": {
       "institution-part": {
-        "lc": "Antwerpen (afd. Turnhout)",
+        "lc": "Arbrb. Antwerpen (afd. Turnhout)",
         "pres.lc": "Voorz. Arbrb. Turnhout",
-        "pc": "Antwerpen (afd. Turnhout)",
-        "cfi": "Antwerpen (afd. Turnhout)",
-        "pres.cfi": "Voorz. Rb. Turnhout",
-        "pres": "Voorz. Turnhout",
-        "corrc": "Corr. Turnhout",
-        "famc": "Famrb. Turnhout",
-        "juvc": "Jeugdrb. Turnhout",
-        "br": "Beslagr. Turnhout",
-        "sentc": "Surb. Turnhout",
-        "cc": "Antwerpen (afd. Turnhout)",
-        "pres.cc": "Voorz. Kh. Turnhout",
+        "pc": "Pol. Antwerpen (afd. Turnhout)",
+        "cfi": "Rb. Antwerpen (afd. Turnhout)",
+        "pres.cfi": "Voorz. Rb. Antwerpen (afd. Turnhout)",
+        "pres": "Voorz. Antwerpen (afd. Turnhout)",
+        "corrc": "Corr.  Antwerpen (afd. Turnhout)",
+        "famc": "Famrb. Antwerpen (afd. Turnhout)",
+        "juvc": "Jeugdrb. Antwerpen (afd. Turnhout)",
+        "br": "Beslagr. Antwerpen (afd. Turnhout)",
+        "sentc": "Surb. Antwerpen (afd. Turnhout)",
+        "cc": "Kh. Antwerpen (afd. Turnhout)",
+        "pres.cc": "Voorz. Kh. Antwerpen (afd. Turnhout)",
         "dc": "Vred. Turnhout"
       }
     },
@@ -346,7 +398,7 @@
     },
     "be:antwerpen:limburg:beringen": {
       "institution-part": {
-        "pc": "Limburg (afd. Beringen)",
+        "pc": "Pol. Limburg (afd. Beringen)",
         "dc": "Vred. Beringen"
       }
     },
@@ -367,22 +419,22 @@
     },
     "be:antwerpen:limburg:genk": {
       "institution-part": {
-        "pc": "Limburg (afd. Genk)",
+        "pc": "Pol. Limburg (afd. Genk)",
         "dc": "Vred. Genk"
       }
     },
     "be:antwerpen:limburg:hasselt": {
       "institution-part": {
-        "lca": "Antwerpen (afd. Hasselt)",
-        "pc": "Limburg (afd. Hasselt)",
-        "cfi": "Limburg (afd. Hasselt)",
-        "pres.cfi": "Voorz. Rb. Hasselt",
-        "pres": "Voorz. Hasselt",
-        "corrc": "Corr. Hasselt",
-        "famc": "Famrb. Hasselt",
-        "juvc": "Jeugdrb. Hasselt",
-        "br": "Beslagr. Hasselt",
-        "sentc": "Surb. Hasselt",
+        "lca": "Arbh. Antwerpen (afd. Hasselt)",
+        "pc": "Pol. Limburg (afd. Hasselt)",
+        "cfi": "Rb. Limburg (afd. Hasselt)",
+        "pres.cfi": "Voorz. Rb. Limburg (afd. Hasselt)",
+        "pres": "Voorz. Limburg (afd. Hasselt)",
+        "corrc": "Corr. Limburg (afd. Hasselt)",
+        "famc": "Famrb. Limburg (afd. Hasselt)",
+        "juvc": "Jeugdrb. Limburg (afd. Hasselt)",
+        "br": "Beslagr. Limburg (afd. Hasselt)",
+        "sentc": "Surb. Limburg (afd. Hasselt)",
         "dc": "Vred. Hasselt",
         "dc.1": "Vred. Hasselt (I)",
         "dc.2": "Vred. Hasselt (II)"
@@ -401,7 +453,7 @@
     "be:antwerpen:limburg:maaseik": {
       "institution-part": {
         "dc": "Vred. Maaseik",
-        "pc": "Limburg (afd. Maaseik)"
+        "pc": "Pol. Limburg (afd. Maaseik)"
       }
     },
     "be:antwerpen:limburg:maasmechelen": {
@@ -416,25 +468,25 @@
     },
     "be:antwerpen:limburg:sint.truiden": {
       "institution-part": {
-        "pc": "Limburg (afd. Sint-Truiden)",
+        "pc": "Pol. Limburg (afd. Sint-Truiden)",
         "dc": "Vred. Sint-Truiden"
       }
     },
     "be:antwerpen:limburg:tongeren": {
       "institution-part": {
-        "pc": "Limburg (afd. Tongeren)",
-        "cfi": "Limburg (afd. Tongeren)",
-        "pres.cfi": "Voorz. Rb. Tongeren",
-        "pres": "Voorz. Tongeren",
-        "corrc": "Corr. Tongeren",
-        "famc": "Famrb. Tongeren",
-        "juvc": "Jeugdrb. Tongeren",
-        "br": "Beslagr. Tongeren",
-        "sentc": "Surb. Tongeren",
-        "lc": "Antwerpen (afd. Tongeren)",
-        "pres.lc": "Voorz. Arbrb. Tongeren",
-        "cc": "Antwerpen (afd. Tongeren)",
-        "pres.cc": "Voorz. Kh. Tongeren"
+        "pc": "Pol. Limburg (afd. Tongeren)",
+        "cfi": "Rb. Limburg (afd. Tongeren)",
+        "pres.cfi": "Voorz. Rb. Limburg (afd. Tongeren)",
+        "pres": "Voorz. Limburg (afd. Tongeren)",
+        "corrc": "Corr. Limburg (afd. Tongeren)",
+        "famc": "Famrb. Limburg (afd. Tongeren)",
+        "juvc": "Jeugdrb. Limburg (afd. Tongeren)",
+        "br": "Beslagr. Limburg (afd. Tongeren)",
+        "sentc": "Surb. Limburg (afd. Tongeren)",
+        "lc": "Arbrb. Antwerpen (afd. Tongeren)",
+        "pres.lc": "Voorz. Arbrb. Antwerpen (afd. Tongeren)",
+        "cc": "Kh. Antwerpen (afd. Tongeren)",
+        "pres.cc": "Voorz. Kh. Antwerpen (afd. Tongeren)"
       }
     },
     "be:antwerpen:limburg:tongeren.voeren": {
